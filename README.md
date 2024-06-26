@@ -1,4 +1,4 @@
-# Chat Application with Redux, Socket.IO, and React Router
+# Chat Application 
 This is a simple chat application built using React.js with Redux for state management, Socket.IO for real-time communication, and React Router for client-side routing. Users can join the chat using a custom nickname and exchange messages in real-time.
 
 ## Installation
